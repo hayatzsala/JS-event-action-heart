@@ -1,0 +1,13 @@
+.box {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    position: relative;
+}
+.heart{
+  width : 10px;
+  height: 10px;
+  color: red;
+  position: absolute;
+  display:none;
+}
